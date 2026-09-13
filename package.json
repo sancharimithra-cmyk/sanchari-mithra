@@ -1,0 +1,21 @@
+{
+  "name": "sri-satya-sai-sharda-niketanam-mandya",
+  "version": "2.0.0",
+  "description": "Sri Sathya Sai Sharadaniketanam Gurukulam Official Portal with SANCHARI MITHRA REBOOT Fullscreen AI and RAG Backend",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "index-website": "node scripts/index-website.js",
+    "generate-yearly-activities": "node scripts/generate-yearly-activities.js"
+  },
+  "keywords": [
+    "gurukulam",
+    "mandya",
+    "sanchari-mithra",
+    "ai-companion",
+    "rag",
+    "gemini"
+  ],
+  "author": "Rithesh G S & Suhas K C",
+  "license": "ISC"
+}
